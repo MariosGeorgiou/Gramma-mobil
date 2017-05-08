@@ -5,7 +5,7 @@
 
 # Video Demo
 You can see a video demo here 
-[linkname](https://youtu.be/oaqosz2Nges)
+[VIDEO_Here](https://youtu.be/oaqosz2Nges)
 
 # Technology used
 For this project i used the following: 
@@ -19,7 +19,7 @@ Software
  2) Myro
  
 # Programming
-The
+Using tests, I measure the correct movements that the robot has to do for most of the letters
 ![meaurements1](https://github.com/MariosGeorgiou/Gramma-mobil/blob/master/images/m1.jpeg) 
 ![meaurements2](https://github.com/MariosGeorgiou/Gramma-mobil/blob/master/images/m2.jpeg)
 ![meaurements3](https://github.com/MariosGeorgiou/Gramma-mobil/blob/master/images/m3.jpeg)
