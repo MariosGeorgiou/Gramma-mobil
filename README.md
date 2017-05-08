@@ -18,7 +18,7 @@ Software
  1) Python
  2) Myro
  
-# Programming
+# Calculations
 Using tests, I measure the correct movements that the robot has to do for most of the letters
 ![meaurements1](https://github.com/MariosGeorgiou/Gramma-mobil/blob/master/images/m1.jpeg) 
 ![meaurements2](https://github.com/MariosGeorgiou/Gramma-mobil/blob/master/images/m2.jpeg)
